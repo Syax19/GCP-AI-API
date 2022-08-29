@@ -1,5 +1,5 @@
 # GCP-API
-Using Python to call Google Cloud Platform(GCP) API\
+Using Python to call Google Cloud Platform(GCP) API
 
 * Car_recognition
 > 使用GCP vision API實現車牌辨識
